@@ -2,7 +2,7 @@
 
 run this command to build using pandoc:
 
-    pandoc -s -o cv.html -c cv-style.css cv.md
+    pandoc -s -o index.html -c cv-style.css cv.md
 
 - **-s** creates a standalone file, 
 - **-o** is the output file
